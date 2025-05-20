@@ -11,7 +11,7 @@ A lightweight Python tool for checking service availability (via ping or HTTP) a
 ## Technologies Used
 
 - Python 3
-- `requests`, `subprocess`, `os`
+- `requests`, `subprocess`, `os`, 'argsparse'
 
 ## Motivation
 
